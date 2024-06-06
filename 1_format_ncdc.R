@@ -3,6 +3,9 @@
 # Created 24 Mar 2022
 # Last modified 21 Mar 2023
 
+# This script combines all the NCRMP and DCRMP data.
+# It exports the full data, the >1% occurrence data, the density data, and site metadata.
+
 # Load the libraries
 library(rvc)
 library(tidyverse)
